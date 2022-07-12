@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{8B36FB6D-BCCE-4320-BEED-203E706569A5}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="12.3.3.3" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_30_1" />
+  <MonoDevelop.Ide.ItemProperties.ListViewDataModel.Android PreferredExecutionTarget="Android.pixel_5_-_api_30_1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListViewDataModel.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ListViewRenderer 2.java">
+    <Files>
+      <File FileName="ListViewDataModel/FirstPage.xaml" Line="1" Column="1" />
+      <File FileName="ListViewDataModel/FirstPage.xaml.cs" Line="52" Column="2" />
+      <File FileName="ListViewDataModel/SecondPage.xaml" Line="34" Column="53" />
+      <File FileName="ListViewDataModel/SecondPage.xaml.cs" Line="29" Column="52" />
+      <File FileName="ListViewDataModel.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ListViewRenderer 2.java" Line="25" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ListViewDataModel" expanded="True" selected="True">
+            <Node name="ListViewDataModel" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="CheckoutPage.xaml" expanded="True" />
+              <Node name="CheckoutPage2.xaml" expanded="True" />
+              <Node name="DetailPage.xaml" expanded="True" />
+              <Node name="FirstPage.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="SecondPage.xaml" expanded="True" />
+            </Node>
+            <Node name="ListViewDataModel.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

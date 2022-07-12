@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ListViewDataModel.CheckoutPage2">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label FontSize="40" Text="{Binding Title}" TextColor="Black" />
+            <Label FontSize="20" Text="{Binding Description}" TextColor="Black" />
+            <Image Source="{Binding Image}"/>
+            <Button 
+                    BackgroundColor="Chocolate" 
+                    Clicked="Button_Clicked"
+                    CommandParameter="{Binding .}" 
+                    Text="購買一份"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

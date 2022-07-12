@@ -1,0 +1,131 @@
+C:/Users/user/source/repos/ListViewDataModel/ListViewDataModel/bin/Debug/netstandard2.0/ListViewDataModel.deps.json
+C:/Users/user/source/repos/ListViewDataModel/ListViewDataModel/bin/Debug/netstandard2.0/ListViewDataModel.dll
+C:/Users/user/source/repos/ListViewDataModel/ListViewDataModel/bin/Debug/netstandard2.0/ref/ListViewDataModel.dll
+C:/Users/user/source/repos/ListViewDataModel/ListViewDataModel/bin/Debug/netstandard2.0/ListViewDataModel.pdb
+C:/Users/user/source/repos/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/App.xaml.g.cs
+C:/Users/user/source/repos/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+C:/Users/user/source/repos/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.csproj.CoreCompileInputs.cache
+C:/Users/user/source/repos/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.AssemblyInfoInputs.cache
+C:/Users/user/source/repos/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.AssemblyInfo.cs
+C:/Users/user/source/repos/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/XamlC.stamp
+C:/Users/user/source/repos/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.dll
+C:/Users/user/source/repos/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/ref/ListViewDataModel.dll
+C:/Users/user/source/repos/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.pdb
+E:/Xamarin/LectureNotes/11002/ch6/ListViewDataModel/ListViewDataModel/bin/Debug/netstandard2.0/ListViewDataModel.deps.json
+E:/Xamarin/LectureNotes/11002/ch6/ListViewDataModel/ListViewDataModel/bin/Debug/netstandard2.0/ListViewDataModel.dll
+E:/Xamarin/LectureNotes/11002/ch6/ListViewDataModel/ListViewDataModel/bin/Debug/netstandard2.0/ref/ListViewDataModel.dll
+E:/Xamarin/LectureNotes/11002/ch6/ListViewDataModel/ListViewDataModel/bin/Debug/netstandard2.0/ListViewDataModel.pdb
+E:/Xamarin/LectureNotes/11002/ch6/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.csproj.AssemblyReference.cache
+E:/Xamarin/LectureNotes/11002/ch6/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.GeneratedMSBuildEditorConfig.editorconfig
+E:/Xamarin/LectureNotes/11002/ch6/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/App.xaml.g.cs
+E:/Xamarin/LectureNotes/11002/ch6/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+E:/Xamarin/LectureNotes/11002/ch6/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.AssemblyInfoInputs.cache
+E:/Xamarin/LectureNotes/11002/ch6/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.AssemblyInfo.cs
+E:/Xamarin/LectureNotes/11002/ch6/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.csproj.CoreCompileInputs.cache
+E:/Xamarin/LectureNotes/11002/ch6/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/XamlC.stamp
+E:/Xamarin/LectureNotes/11002/ch6/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.dll
+E:/Xamarin/LectureNotes/11002/ch6/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/ref/ListViewDataModel.dll
+E:/Xamarin/LectureNotes/11002/ch6/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.pdb
+C:/Users/User/Xamarin/11002/ch6/ListViewDataModel/ListViewDataModel/bin/Debug/netstandard2.0/ListViewDataModel.deps.json
+C:/Users/User/Xamarin/11002/ch6/ListViewDataModel/ListViewDataModel/bin/Debug/netstandard2.0/ListViewDataModel.dll
+C:/Users/User/Xamarin/11002/ch6/ListViewDataModel/ListViewDataModel/bin/Debug/netstandard2.0/ref/ListViewDataModel.dll
+C:/Users/User/Xamarin/11002/ch6/ListViewDataModel/ListViewDataModel/bin/Debug/netstandard2.0/ListViewDataModel.pdb
+C:/Users/User/Xamarin/11002/ch6/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.csproj.AssemblyReference.cache
+C:/Users/User/Xamarin/11002/ch6/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Xamarin/11002/ch6/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/App.xaml.g.cs
+C:/Users/User/Xamarin/11002/ch6/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+C:/Users/User/Xamarin/11002/ch6/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.AssemblyInfoInputs.cache
+C:/Users/User/Xamarin/11002/ch6/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.AssemblyInfo.cs
+C:/Users/User/Xamarin/11002/ch6/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.csproj.CoreCompileInputs.cache
+C:/Users/User/Xamarin/11002/ch6/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/XamlC.stamp
+C:/Users/User/Xamarin/11002/ch6/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.dll
+C:/Users/User/Xamarin/11002/ch6/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/ref/ListViewDataModel.dll
+C:/Users/User/Xamarin/11002/ch6/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.pdb
+C:/Users/user/source/repos/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.csproj.AssemblyReference.cache
+C:/Users/user/source/repos/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/user/source/repos/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/FirstPage.xaml.g.cs
+C:/Users/user/source/repos/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/SecondPage.xaml.g.cs
+C:/Users/user/source/repos/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/ThirdPage.xaml.g.cs
+C:/Users/user/source/repos/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/DetailPage.xaml.g.cs
+C:/Users/louie/Downloads/ListViewDataModel-20220330T120432Z-001/ListViewDataModel/ListViewDataModel/bin/Debug/netstandard2.0/ListViewDataModel.deps.json
+C:/Users/louie/Downloads/ListViewDataModel-20220330T120432Z-001/ListViewDataModel/ListViewDataModel/bin/Debug/netstandard2.0/ListViewDataModel.dll
+C:/Users/louie/Downloads/ListViewDataModel-20220330T120432Z-001/ListViewDataModel/ListViewDataModel/bin/Debug/netstandard2.0/ListViewDataModel.pdb
+C:/Users/louie/Downloads/ListViewDataModel-20220330T120432Z-001/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.csproj.AssemblyReference.cache
+C:/Users/louie/Downloads/ListViewDataModel-20220330T120432Z-001/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/louie/Downloads/ListViewDataModel-20220330T120432Z-001/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/App.xaml.g.cs
+C:/Users/louie/Downloads/ListViewDataModel-20220330T120432Z-001/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/DetailPage.xaml.g.cs
+C:/Users/louie/Downloads/ListViewDataModel-20220330T120432Z-001/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/FirstPage.xaml.g.cs
+C:/Users/louie/Downloads/ListViewDataModel-20220330T120432Z-001/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+C:/Users/louie/Downloads/ListViewDataModel-20220330T120432Z-001/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/SecondPage.xaml.g.cs
+C:/Users/louie/Downloads/ListViewDataModel-20220330T120432Z-001/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.AssemblyInfoInputs.cache
+C:/Users/louie/Downloads/ListViewDataModel-20220330T120432Z-001/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.AssemblyInfo.cs
+C:/Users/louie/Downloads/ListViewDataModel-20220330T120432Z-001/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.csproj.CoreCompileInputs.cache
+C:/Users/louie/Downloads/ListViewDataModel-20220330T120432Z-001/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/XamlC.stamp
+C:/Users/louie/Downloads/ListViewDataModel-20220330T120432Z-001/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.dll
+C:/Users/louie/Downloads/ListViewDataModel-20220330T120432Z-001/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/refint/ListViewDataModel.dll
+C:/Users/louie/Downloads/ListViewDataModel-20220330T120432Z-001/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.pdb
+C:/Users/louie/Downloads/ListViewDataModel-20220330T120432Z-001/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/ref/ListViewDataModel.dll
+C:/Users/louie/Downloads/ListViewDataModel-20220330T120432Z-001/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/CheckoutPage.xaml.g.cs
+C:/Users/louie/Downloads/ListViewDataModel-20220330T120432Z-001/ListViewDataModel/ListViewDataModel/obj/Debug/netstandard2.0/CheckoutPage2.xaml.g.cs
+/Users/rich/Desktop/ListViewDataModel - 複製 (3)/ListViewDataModel/bin/Debug/netstandard2.0/ListViewDataModel.deps.json
+/Users/rich/Desktop/ListViewDataModel - 複製 (3)/ListViewDataModel/bin/Debug/netstandard2.0/ListViewDataModel.dll
+/Users/rich/Desktop/ListViewDataModel - 複製 (3)/ListViewDataModel/bin/Debug/netstandard2.0/ref/ListViewDataModel.dll
+/Users/rich/Desktop/ListViewDataModel - 複製 (3)/ListViewDataModel/bin/Debug/netstandard2.0/ListViewDataModel.pdb
+/Users/rich/Desktop/ListViewDataModel - 複製 (3)/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.csproj.AssemblyReference.cache
+/Users/rich/Desktop/ListViewDataModel - 複製 (3)/ListViewDataModel/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/rich/Desktop/ListViewDataModel - 複製 (3)/ListViewDataModel/obj/Debug/netstandard2.0/CheckoutPage.xaml.g.cs
+/Users/rich/Desktop/ListViewDataModel - 複製 (3)/ListViewDataModel/obj/Debug/netstandard2.0/CheckoutPage2.xaml.g.cs
+/Users/rich/Desktop/ListViewDataModel - 複製 (3)/ListViewDataModel/obj/Debug/netstandard2.0/DetailPage.xaml.g.cs
+/Users/rich/Desktop/ListViewDataModel - 複製 (3)/ListViewDataModel/obj/Debug/netstandard2.0/FirstPage.xaml.g.cs
+/Users/rich/Desktop/ListViewDataModel - 複製 (3)/ListViewDataModel/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/rich/Desktop/ListViewDataModel - 複製 (3)/ListViewDataModel/obj/Debug/netstandard2.0/SecondPage.xaml.g.cs
+/Users/rich/Desktop/ListViewDataModel - 複製 (3)/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.AssemblyInfoInputs.cache
+/Users/rich/Desktop/ListViewDataModel - 複製 (3)/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.AssemblyInfo.cs
+/Users/rich/Desktop/ListViewDataModel - 複製 (3)/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.csproj.CoreCompileInputs.cache
+/Users/rich/Desktop/ListViewDataModel - 複製 (3)/ListViewDataModel/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/rich/Desktop/ListViewDataModel - 複製 (3)/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.dll
+/Users/rich/Desktop/ListViewDataModel - 複製 (3)/ListViewDataModel/obj/Debug/netstandard2.0/ref/ListViewDataModel.dll
+/Users/rich/Desktop/ListViewDataModel - 複製 (3)/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.pdb
+/Users/rich/Desktop/Restaurant/ListViewDataModel/bin/Debug/netstandard2.0/ListViewDataModel.deps.json
+/Users/rich/Desktop/Restaurant/ListViewDataModel/bin/Debug/netstandard2.0/ListViewDataModel.dll
+/Users/rich/Desktop/Restaurant/ListViewDataModel/bin/Debug/netstandard2.0/ref/ListViewDataModel.dll
+/Users/rich/Desktop/Restaurant/ListViewDataModel/bin/Debug/netstandard2.0/ListViewDataModel.pdb
+/Users/rich/Desktop/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.csproj.AssemblyReference.cache
+/Users/rich/Desktop/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/rich/Desktop/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/CheckoutPage.xaml.g.cs
+/Users/rich/Desktop/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/CheckoutPage2.xaml.g.cs
+/Users/rich/Desktop/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/DetailPage.xaml.g.cs
+/Users/rich/Desktop/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/FirstPage.xaml.g.cs
+/Users/rich/Desktop/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/rich/Desktop/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/SecondPage.xaml.g.cs
+/Users/rich/Desktop/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.AssemblyInfoInputs.cache
+/Users/rich/Desktop/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.AssemblyInfo.cs
+/Users/rich/Desktop/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.csproj.CoreCompileInputs.cache
+/Users/rich/Desktop/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/rich/Desktop/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.dll
+/Users/rich/Desktop/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/ref/ListViewDataModel.dll
+/Users/rich/Desktop/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.pdb
+C:/Users/louie/Downloads/Restaurant (1)/Restaurant/ListViewDataModel/bin/Debug/netstandard2.0/ListViewDataModel.deps.json
+C:/Users/louie/Downloads/Restaurant (1)/Restaurant/ListViewDataModel/bin/Debug/netstandard2.0/ListViewDataModel.dll
+C:/Users/louie/Downloads/Restaurant (1)/Restaurant/ListViewDataModel/bin/Debug/netstandard2.0/ListViewDataModel.pdb
+C:/Users/louie/Downloads/Restaurant (1)/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.csproj.AssemblyReference.cache
+C:/Users/louie/Downloads/Restaurant (1)/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/louie/Downloads/Restaurant (1)/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/App.xaml.g.cs
+C:/Users/louie/Downloads/Restaurant (1)/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/CheckoutPage.xaml.g.cs
+C:/Users/louie/Downloads/Restaurant (1)/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/CheckoutPage2.xaml.g.cs
+C:/Users/louie/Downloads/Restaurant (1)/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/DetailPage.xaml.g.cs
+C:/Users/louie/Downloads/Restaurant (1)/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/FirstPage.xaml.g.cs
+C:/Users/louie/Downloads/Restaurant (1)/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+C:/Users/louie/Downloads/Restaurant (1)/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/SecondPage.xaml.g.cs
+C:/Users/louie/Downloads/Restaurant (1)/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.AssemblyInfoInputs.cache
+C:/Users/louie/Downloads/Restaurant (1)/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.AssemblyInfo.cs
+C:/Users/louie/Downloads/Restaurant (1)/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.csproj.CoreCompileInputs.cache
+C:/Users/louie/Downloads/Restaurant (1)/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/XamlC.stamp
+C:/Users/louie/Downloads/Restaurant (1)/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.dll
+C:/Users/louie/Downloads/Restaurant (1)/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/refint/ListViewDataModel.dll
+C:/Users/louie/Downloads/Restaurant (1)/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.pdb
+C:/Users/louie/Downloads/Restaurant (1)/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/ref/ListViewDataModel.dll
+C:/Users/louie/Downloads/Restaurant (1)/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/NonePage.xaml.g.cs
+C:/Users/louie/Downloads/Restaurant (1)/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/Page1.xaml.g.cs
+/Users/rich/Desktop/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/NonePage.xaml.g.cs
+/Users/rich/Desktop/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/Page1.xaml.g.cs

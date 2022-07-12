@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="ListViewDataModel.MainPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <!--  ListView.ItemTemplate 屬性 取得或設定 ListView 控制項中資料項目的自訂內容。  -->
+    <!--  ItemTemplate 屬性 (DataTemplate 類別)，而 DataTemplate 使用 Cell 來協助項目的呈現  -->
+    <ListView x:Name="DataModelList" 
+              ItemTapped="ListViewItemTapped"
+              BackgroundColor="SeaShell"
+              RowHeight="75">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout Orientation="Horizontal">
+                        <StackLayout>
+                            <Image Source="{Binding Image}"/>
+                        </StackLayout>
+                        <StackLayout>                            
+                            <Label HorizontalOptions="Start"
+                                   FontSize="20" 
+                                   FontAttributes="Bold" 
+                                   TextColor="DarkTurquoise"
+                                   Text="{Binding Title}"/>
+                            <Label HorizontalOptions="Start" 
+                                   FontSize="13" 
+                                   FontAttributes="Bold" 
+                                   TextColor="Orchid"
+                                   Text="{Binding Hint}"/>   
+                        </StackLayout>
+                        <StackLayout>
+                            <Label HorizontalOptions="End" 
+                                   FontSize="20" 
+                                   FontAttributes="Bold" 
+                                   TextColor="Gray"
+                                   Text="{Binding Title01}"/></StackLayout>
+                        <StackLayout Orientation="Horizontal" HorizontalOptions="EndAndExpand">
+                            <Button Text="餐廳介紹" Clicked="Button_Clicked_1" CommandParameter="{Binding .}"/>
+                        </StackLayout>                                                   
+                    </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+
+</ContentPage>

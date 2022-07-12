@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "74N2FaHqbdnC2SjLbIRefRy3F6nVl4FrCNR1XIZwX+Lfu8N1zHVjhnyP83NT/88BSu9TnrMUu/AmD6mLopvLwA==",
+  "success": true,
+  "projectFilePath": "/Users/rich/Desktop/Restaurant/ListViewDataModel.iOS/ListViewDataModel.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/rich/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/rich/.nuget/packages/xamarin.essentials/1.3.1/xamarin.essentials.1.3.1.nupkg.sha512",
+    "/Users/rich/.nuget/packages/xamarin.forms/4.4.0.991265/xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}
