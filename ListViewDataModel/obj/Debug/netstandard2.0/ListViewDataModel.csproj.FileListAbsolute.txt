@@ -129,3 +129,24 @@ C:/Users/louie/Downloads/Restaurant (1)/Restaurant/ListViewDataModel/obj/Debug/n
 C:/Users/louie/Downloads/Restaurant (1)/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/Page1.xaml.g.cs
 /Users/rich/Desktop/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/NonePage.xaml.g.cs
 /Users/rich/Desktop/Restaurant/ListViewDataModel/obj/Debug/netstandard2.0/Page1.xaml.g.cs
+/Users/rich/Desktop/Order_Machine/ListViewDataModel/bin/Debug/netstandard2.0/ListViewDataModel.deps.json
+/Users/rich/Desktop/Order_Machine/ListViewDataModel/bin/Debug/netstandard2.0/ListViewDataModel.dll
+/Users/rich/Desktop/Order_Machine/ListViewDataModel/bin/Debug/netstandard2.0/ref/ListViewDataModel.dll
+/Users/rich/Desktop/Order_Machine/ListViewDataModel/bin/Debug/netstandard2.0/ListViewDataModel.pdb
+/Users/rich/Desktop/Order_Machine/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.csproj.AssemblyReference.cache
+/Users/rich/Desktop/Order_Machine/ListViewDataModel/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/rich/Desktop/Order_Machine/ListViewDataModel/obj/Debug/netstandard2.0/CheckoutPage.xaml.g.cs
+/Users/rich/Desktop/Order_Machine/ListViewDataModel/obj/Debug/netstandard2.0/CheckoutPage2.xaml.g.cs
+/Users/rich/Desktop/Order_Machine/ListViewDataModel/obj/Debug/netstandard2.0/DetailPage.xaml.g.cs
+/Users/rich/Desktop/Order_Machine/ListViewDataModel/obj/Debug/netstandard2.0/FirstPage.xaml.g.cs
+/Users/rich/Desktop/Order_Machine/ListViewDataModel/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/rich/Desktop/Order_Machine/ListViewDataModel/obj/Debug/netstandard2.0/NonePage.xaml.g.cs
+/Users/rich/Desktop/Order_Machine/ListViewDataModel/obj/Debug/netstandard2.0/Page1.xaml.g.cs
+/Users/rich/Desktop/Order_Machine/ListViewDataModel/obj/Debug/netstandard2.0/SecondPage.xaml.g.cs
+/Users/rich/Desktop/Order_Machine/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.AssemblyInfoInputs.cache
+/Users/rich/Desktop/Order_Machine/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.AssemblyInfo.cs
+/Users/rich/Desktop/Order_Machine/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.csproj.CoreCompileInputs.cache
+/Users/rich/Desktop/Order_Machine/ListViewDataModel/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/rich/Desktop/Order_Machine/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.dll
+/Users/rich/Desktop/Order_Machine/ListViewDataModel/obj/Debug/netstandard2.0/ref/ListViewDataModel.dll
+/Users/rich/Desktop/Order_Machine/ListViewDataModel/obj/Debug/netstandard2.0/ListViewDataModel.pdb

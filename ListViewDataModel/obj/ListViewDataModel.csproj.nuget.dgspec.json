@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rich/Desktop/Restaurant/ListViewDataModel/ListViewDataModel.csproj": {}
+    "/Users/rich/Desktop/Order_Machine/ListViewDataModel/ListViewDataModel.csproj": {}
   },
   "projects": {
-    "/Users/rich/Desktop/Restaurant/ListViewDataModel/ListViewDataModel.csproj": {
+    "/Users/rich/Desktop/Order_Machine/ListViewDataModel/ListViewDataModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rich/Desktop/Restaurant/ListViewDataModel/ListViewDataModel.csproj",
+        "projectUniqueName": "/Users/rich/Desktop/Order_Machine/ListViewDataModel/ListViewDataModel.csproj",
         "projectName": "ListViewDataModel",
-        "projectPath": "/Users/rich/Desktop/Restaurant/ListViewDataModel/ListViewDataModel.csproj",
-        "packagesPath": "/Users/rich/.nuget/packages/",
-        "outputPath": "/Users/rich/Desktop/Restaurant/ListViewDataModel/obj/",
+        "projectPath": "/Users/rich/Desktop/Order_Machine/ListViewDataModel/ListViewDataModel.csproj",
+        "packagesPath": "/Users/Rich/.nuget/packages/",
+        "outputPath": "/Users/rich/Desktop/Order_Machine/ListViewDataModel/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/rich/.config/NuGet/NuGet.Config"
+          "/Users/Rich/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -63,7 +63,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/Users/rich/Library/Caches/VisualStudio/17.0/MSBuild/69465_3/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/Rich/Library/Caches/VisualStudio/17.0/MSBuild/69663_3/RuntimeIdentifierGraph.json"
         }
       }
     }

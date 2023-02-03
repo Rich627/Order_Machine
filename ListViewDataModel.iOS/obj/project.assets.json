@@ -1018,20 +1018,20 @@
     ]
   },
   "packageFolders": {
-    "/Users/rich/.nuget/packages/": {}
+    "/Users/Rich/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rich/Desktop/Restaurant/ListViewDataModel.iOS/ListViewDataModel.iOS.csproj",
+      "projectUniqueName": "/Users/rich/Desktop/Order_Machine/ListViewDataModel.iOS/ListViewDataModel.iOS.csproj",
       "projectName": "ListViewDataModel.iOS",
-      "projectPath": "/Users/rich/Desktop/Restaurant/ListViewDataModel.iOS/ListViewDataModel.iOS.csproj",
-      "packagesPath": "/Users/rich/.nuget/packages/",
-      "outputPath": "/Users/rich/Desktop/Restaurant/ListViewDataModel.iOS/obj/",
+      "projectPath": "/Users/rich/Desktop/Order_Machine/ListViewDataModel.iOS/ListViewDataModel.iOS.csproj",
+      "packagesPath": "/Users/Rich/.nuget/packages/",
+      "outputPath": "/Users/rich/Desktop/Order_Machine/ListViewDataModel.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "/Users/rich/.config/NuGet/NuGet.Config"
+        "/Users/Rich/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
@@ -1042,8 +1042,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/rich/Desktop/Restaurant/ListViewDataModel/ListViewDataModel.csproj": {
-              "projectPath": "/Users/rich/Desktop/Restaurant/ListViewDataModel/ListViewDataModel.csproj"
+            "/Users/rich/Desktop/Order_Machine/ListViewDataModel/ListViewDataModel.csproj": {
+              "projectPath": "/Users/rich/Desktop/Order_Machine/ListViewDataModel/ListViewDataModel.csproj"
             }
           }
         }
